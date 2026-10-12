@@ -2,7 +2,7 @@
 
   <!-- Unsplash Hero Image -->
   <img
-    src="https://images.unsplash.com/photo-1791724389693-b873064e086d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    src="https://images.unsplash.com/photo-1610301097329-50f1eca871dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     alt="Featured Unsplash banner"
     width="100%"
   />
