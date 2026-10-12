@@ -2,7 +2,7 @@
 
   <!-- Unsplash Hero Image -->
   <img
-    src="https://images.unsplash.com/photo-1779896412420-d37179cdffb9?auto=format&amp;fit=crop&amp;w=1600&amp;h=420&amp;q=85](https://images.unsplash.com/photo-1791724389693-b873064e086d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)](https://images.unsplash.com/photo-1791724389693-b873064e086d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)"
+    src="https://images.unsplash.com/photo-1791724389693-b873064e086d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     alt="Featured Unsplash banner"
     width="100%"
   />
